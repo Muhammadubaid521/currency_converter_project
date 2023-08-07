@@ -43,7 +43,7 @@ class _CurrencyConverterState extends State<CurrencyConverter> {
               TextField(
                 controller: amountController,
                 decoration: InputDecoration(
-                    labelText: 'Amount',
+                    labelText: 'Rupees',
                     labelStyle: const TextStyle(
                       fontSize: 15,
                       color: Colors.amber,
